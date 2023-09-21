@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/694891486.svg)](https://zenodo.org/badge/latestdoi/694891486)
+
 # YH_NM01_NatureNeuroscience_paper
 Huang lab Maxine's snRNA-seq analysis for Nature Neuroscience paper
 
